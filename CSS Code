@@ -1,0 +1,19 @@
+body{
+  background-color: whitesmoke;
+ }
+
+
+#cv-form{
+  /* display: none; */
+}
+
+.myimg{
+  border-radius: 30%;
+  width: 120px;
+}
+
+ .background{
+          
+
+        background-color: rgba(255, 228, 196, 0.363);
+ }
